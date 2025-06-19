@@ -21,3 +21,9 @@ How to use?
 2. npm run dev
 3. use the localhost port provided in the terminal
 4. Make your todo-list
+
+
+# Future Progress (Maybe)
+1. More days
+2. Custom cato
+3. Drag & Drop 
